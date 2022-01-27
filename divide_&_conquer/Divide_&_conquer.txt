@@ -1,0 +1,10 @@
+
+
+here’s how D&C works:
+
+    1. Figure out a simple case as the base case.
+    2. Figure out how to reduce your problem and get to the base case.
+
+
+D&C isn’t a simple algorithm that you can apply to a problem. Instead, 
+it’s a way to think about a problem.
