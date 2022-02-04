@@ -9,3 +9,6 @@ Some Algorithm Implementations in Python
    - # Divide & Conquer :
         - Divide and conquer is an algorithm design paradigm. A divide-and-conquer algorithm recursively breaks down a problem into two or more sub-problems of the same or related type, until these become simple enough to be solved directly. The solutions to the sub-problems are then combined to give a solution to the original problem.
         - D&C isn’t a simple algorithm that you can apply to a problem. Instead, it’s a way to think about a problem.
+      
+   - # Selection Sort :
+        - 
