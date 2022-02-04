@@ -11,4 +11,4 @@ Some Algorithm Implementations in Python
         - D&C isn’t a simple algorithm that you can apply to a problem. Instead, it’s a way to think about a problem.
       
    - # Selection Sort :
-        - 
+        - Selection Sort is an in-place comparison sorting algorithm. It has an O(n(2)) time complexity, which makes it inefficient on large lists, and generally performs worse than the similar insertion sort. Selection sort is noted for its simplicity and has performance advantages over more complicated algorithms in certain situations, particularly where auxiliary memory is limited.
